@@ -1,5 +1,10 @@
 # videocr
 
+## [项目描述](https://www.cnpython.com/pypi/videocr)
+
+使用带有python的Tesseractocr引擎从视频中提取硬编码（烧录）字幕。
+
+
 Extract hardcoded (burned-in) subtitles from videos using the [Tesseract](https://github.com/tesseract-ocr/tesseract) OCR engine with Python.
 
 Input a video with hardcoded subtitles:
